@@ -21,9 +21,21 @@
 <p></p>
 
 
+![Screenshot 2024-09-18 212229](https://github.com/user-attachments/assets/0edfebde-daf0-4985-9003-38f8517ee236)
+
+
+
+https://github.com/user-attachments/assets/c1bd39f6-41b8-43a9-8980-85f610c734f2
+
+
 
 # VISUALIZATIONS OF UNCLEANED DATASET
 <p></p>
+
+![Screenshot 2024-09-18 211454](https://github.com/user-attachments/assets/c52720c5-890c-4765-8070-b0fbce8ad974)
+
+
+https://github.com/user-attachments/assets/51df93ca-9e76-444b-b8e5-339b9f426bd5
 
 
 
