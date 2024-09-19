@@ -52,7 +52,7 @@ After cleaning the dataset by eliminating the zero and null values, we will load
 ![Screenshot 2024-09-18 211454](https://github.com/user-attachments/assets/c52720c5-890c-4765-8070-b0fbce8ad974)
 
 
-<h3>ScreenShot of Uncleaned Dataset</h3>
+<h3> Uncleaned Dataset</h3>
 
 https://github.com/user-attachments/assets/51df93ca-9e76-444b-b8e5-339b9f426bd5
 
